@@ -1,7 +1,9 @@
 ### Welcome
 
+This is my second account, and you can find more of my work in @luciobj
+
 My name is Lúcio BJ, and im currently a Full-stack web developer.
-I'm from Belo Horizonte, Minas Gerais, Brasil, and work remotely for The Silver Logic.
+I'm from Belo Horizonte, Minas Gerais, Brasil, and work remotely for The SilverLogic.
 
 I studied at Trybe, where I did lesson on front-end, back-end, and computer science! 🖥️ 🖱️
 
@@ -9,7 +11,7 @@ My main interests and hobbies are:
 
 - 🏆 Gaming, reading, watching and hanging out;
 
-- 🌱 I really like learning and developing constantly, so I'm currently learning React Native and studyng leadership, as well as comunication;
+- 🌱 I really like learning and developing constantly, so I'm currently learning DevOps and Kubernetes;
 
 - 🔭 Skill I have learned already:
 
